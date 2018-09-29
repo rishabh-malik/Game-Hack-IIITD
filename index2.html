@@ -169,11 +169,11 @@
         </div>
 
         <div class="score__content" id="dist">
-            <button style="background:none;border-width: 0" class="score__label" onclick="result()">Results</button>
+            <button  onclick="javascript:location.href='results.html'" style="background:none;border-width: 0" class="score__label">Results</button>
           </div>
 
-        <div class="score__content" id="dist">
-            <button style="background:none;border-width: 0" class="score__label" onclick="achivement()">Achivements</button>
+        <div class="score__content" id="dist" onclick="achivement()">
+            <button style="background:none;border-width: 0" class="score__label" >Achivements</button>
           </div>
 
         <div class="score__content" id="dist">
@@ -250,7 +250,8 @@
   </div>
   <script>
   function result(){
-    location.href = "results.html";
+    alert('result');
+    
   }
   function achivement(){
     location.href = "achivement.html";
