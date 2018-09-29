@@ -683,7 +683,6 @@ function loop(){
       $(".fear-progress-bar").width( (window.emotion_history['Fear'] / highest_val * 100)+"%");
       $(".surprise-progress-bar").width( (window.emotion_history['Surprise'] / highest_val * 100)+"%");
       $(".neutral-progress-bar").width( (window.emotion_history['Neutral'] / highest_val * 100)+"%");
-      
     }
   }else if (game.status=="waitingReplay"){
       
