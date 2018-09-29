@@ -97,10 +97,11 @@
   
   .header img {
       position: absolute;
-      left: 10px;
-      height: 30%;
+      left: 0px;
+      height: 125%;
+      width: 15%;
       margin: 0px;
-      margin-left: 10px;
+      margin-left: 0px;
   }
   
   .header h1 span {
