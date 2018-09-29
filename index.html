@@ -5,22 +5,25 @@
     <style>
         body{
             background-repeat: no-repeat;
-            background-size: 1280px 700px;
+            background-size: 1500px 900px;
         }
     </style>
 </head>
 
 <body background="background.gif">
-    <button id="newGame">
+    <center><img src="./img/logo.png" width="300px" height="200px"><br><br>
+        <br><br>
+    </div><button id="newGame" style= "border-radius: 20px; color:white; background-color: black; width: 180px; height:50px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;font-size: 20px">
         New Game
-    </button>
-    <p>
+    </button><br><br><br>
+    <p style="color:blanchedalmond; font-size: 25px">
         Multiplayer : Challenge Each other
     </p>
-    <button onclick="makeid()">Create Room</button> <div id="session_id"> </div>
-    <p>Join Room </p><input type="text">
-    <br><br>
-    <button id="startGame">Start</button>
+    <button onclick="makeid()" style= "border-radius: 20px; color:white; background-color: black; width: 180px; height:50px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;font-size: 20px">Create Room</button> <div id="session_id"> </div>
+    <p style="color:white; font-size: 20px">Join Room </p>
+    <input type="text" style= "border-radius: 20px;text-align:center ; color:white; background-color: black; width: 220px; height:50px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;font-size: 20px">
+    <br><br><br><br>
+    <button id="startGame" style= "border-radius: 20px; color:white; background-color: black; width: 180px; height:50px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;font-size: 20px">Start</button></center>
 </body>
 <script type="text/javascript">
     document.getElementById("newGame").onclick = function () {
