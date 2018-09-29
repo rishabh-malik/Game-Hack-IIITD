@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>sad</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sad">
+            <circle id="Oval" fill="#FFD112" cx="30" cy="30" r="30"></circle>
+            <path d="M38.581,44.428 C33.178,41.89 26.795,41.888 21.385,44.416 C20.047,45.061 21.715,48.566 23.047,47.916 C26.619,46.251 31.943,45.61 36.922,47.926 C38.256,48.545 39.999,45.113 38.581,44.428 L38.581,44.428 Z" id="Shape" fill="#664E27"></path>
+            <path d="M52,29 C52,33.9705627 47.9705627,38 43,38 C38.0294373,38 34,33.9705627 34,29 C34,24.033 38.029,20 43,20 C47.969,20 52,24.033 52,29 L52,29 Z" id="Shape" fill="#FFFFFF"></path>
+            <circle id="Oval" fill="#664E27" cx="43" cy="29" r="6"></circle>
+            <ellipse id="Oval" fill="#FFFFFF" cx="44.552" cy="33.469" rx="2.812" ry="3.25"></ellipse>
+            <ellipse id="Oval" fill="#FFFFFF" cx="40.779" cy="29" rx="1.645" ry="1.902"></ellipse>
+            <g id="Group" transform="translate(8.000000, 20.000000)">
+                <path d="M18,9 C17.9999999,13.9705627 13.9705627,17.9999998 9,17.9999998 C4.02943733,17.9999998 1.04746775e-07,13.9705627 -1.77635684e-15,9 C-1.77635684e-15,4.033 4.029,-3.55271368e-15 9,-3.55271368e-15 C13.969,-3.55271368e-15 18,4.033 18,9 L18,9 Z" id="Shape" fill="#FFFFFF"></path>
+                <circle id="Oval" fill="#664E27" cx="9" cy="9" r="6"></circle>
+                <ellipse id="Oval" fill="#FFFFFF" cx="10.551" cy="13.469" rx="2.811" ry="3.25"></ellipse>
+                <ellipse id="Oval" fill="#FFFFFF" cx="6.778" cy="9" rx="1.644" ry="1.902"></ellipse>
+            </g>
+            <path d="M44.996,34 C39.916,40.771 37,47.002 37,52.123 C37,56.475 40.58,60 45,60 C49.416,60 53,56.475 53,52.123 C53,47.002 49.996,40.666 44.996,34 L44.996,34 Z" id="Shape" fill="#65B1EF"></path>
+            <g id="Group" transform="translate(7.000000, 13.000000)" fill="#917524">
+                <path d="M44.201,5.697 C40.9646098,2.96454114 36.679074,1.81608647 32.51,2.564 C31.93,2.677 31.42,0.543 32.123,0.408 C36.9342411,-0.455708966 41.8801231,0.869473597 45.615,4.023 C46.156,4.492 44.646,6.084 44.201,5.697 L44.201,5.697 Z M13.486,2.414 C9.318,1.666 5.031,2.814 1.795,5.547 C1.352,5.936 -0.16,4.342 0.383,3.873 C4.11794335,0.719600692 9.06376489,-0.605565694 13.875,0.258 C14.578,0.393 14.066,2.527 13.486,2.414 L13.486,2.414 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
